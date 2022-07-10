@@ -1,0 +1,14 @@
+# Rust
+/target
+/Cargo.lock
+
+# CLion/IDEA
+*.iml
+.idea/*
+!.idea/codeStyles/
+
+# MacOS
+.DS_Store
+
+# local scripts
+/*.sh

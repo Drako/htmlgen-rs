@@ -1,0 +1,14 @@
+[package]
+name = "htmlgen"
+description = "type-safe html generator"
+authors = ["Felix Bytow <drako@drako.guru>"]
+version = "0.1.0"
+edition = "2021"
+publish = ["crates-drako-guru"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/Drako/htmlgen-rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
